@@ -1,4 +1,4 @@
-# Sujet3_BINSYAHRULAZLAN_DOUKANI
+# Sujet3_BINSYAHRULAZLANIan_DOUKANIYacine
 # Projet Chiffrement de Messages
 --- Ce fichier README fournit une presentation claire de notre projet, des informations sur l'auteur(notre nom), une documentation detaillee de chaque fonction, des cas d'erreur, et des instructions d'utilisation. ---
 

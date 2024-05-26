@@ -1,6 +1,7 @@
 # Sujet3_BINSYAHRULAZLANIan_DOUKANIYacine
 # Projet Chiffrement de Messages
 --- Ce fichier README fournit une presentation claire de notre projet, des informations sur l'auteur(notre nom), une documentation detaillee de chaque fonction, des cas d'erreur, et des instructions d'utilisation. ---
+--- Voici le lien vers notre depot du GIT : https://github.com/iaung/Sujet3_BINSYAHRULAZLAN_CHAQROUNE ---
 
 ## L'objectif de l'application
 L'objectif de cette application est de permettre le chiffrement des messages en utilisant deux methodes de chiffrement :
